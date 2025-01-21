@@ -12,10 +12,10 @@ Objective: Develop a functional React application that allows HR/Recruiters to s
 # Allow users to schedule an interview by selecting:
   1. Candidate name. 2. Interviewer name. 3. Date and time slot. 4. Interview type (e.g., Technical, HR, Behavioral).
 
-![Job Board]
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20184926.png)
 
 adding data
-![Job Board]
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20185027.png)
 
 sucessful scheduling
 ![Job Board]
