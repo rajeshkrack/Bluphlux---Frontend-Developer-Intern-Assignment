@@ -9,7 +9,7 @@ Objective: Develop a functional React application that allows HR/Recruiters to s
 
 ![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20183936.png)
 
-# Allow users to schedule an interview by selecting:
+# 2. Allow users to schedule an interview by selecting:
   1. Candidate name. 2. Interviewer name. 3. Date and time slot. 4. Interview type (e.g., Technical, HR, Behavioral).
 
 ![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20184926.png)
@@ -24,6 +24,21 @@ sucessful scheduling
 
 
 Validation 
+
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20185658.png)
+
+
+# 3. Interview Dashboard: 
+
+# 3.1 Display a calendar  
+
+![Job Board]
+
+# 3.2 Timeline view of all scheduled interviews. 
+
+![Job Board]
+
+# 4. Enable filtering by date, interviewer, or candidate.
 
 ![Job Board]
 
