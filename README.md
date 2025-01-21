@@ -1,13 +1,18 @@
 
 # Bluphlux - Frontend Developer Intern Assignment
 
-# Objective: Develop a functional React application that allows HR/Recruiters to schedule, manage, and view interviews efficiently.
+Objective: Develop a functional React application that allows HR/Recruiters to schedule, manage, and view interviews efficiently.
 
 # Implementation 
 
 # 1. HOME Page
 
 ![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20183936.png)
+
+# Allow users to schedule an interview by selecting:
+  1. Candidate name. 2. Interviewer name. 3. Date and time slot. 4. Interview type (e.g., Technical, HR, Behavioral).
+
+![Job Board]
 
 
 
