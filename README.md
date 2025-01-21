@@ -71,7 +71,19 @@ Changes happended
 
 # Steps to Run Project 
 
-git clone 
+git clone https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment.git
+
+npm i           ---->  for installing dependancy 
+
+
+npm run dev to start the project ---------------->>> Yeah <<<----------------------------
+
+
+#  Hey !!  Hey !!  Why you are worring 
+
+Go and directly enjoy my deployed Interview schedular 
+
+
 
 
 
