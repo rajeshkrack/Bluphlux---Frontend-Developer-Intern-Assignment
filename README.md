@@ -7,7 +7,7 @@
 
 # 1. HOME Page
 
-![Job Board]()
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20183936.png)
 
 
 
