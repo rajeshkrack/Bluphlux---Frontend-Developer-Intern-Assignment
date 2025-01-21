@@ -32,15 +32,15 @@ Validation
 
 # 3.1 Display a calendar  
 
-![Job Board]
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20190159.png)
 
 # 3.2 Timeline view of all scheduled interviews. 
 
-![Job Board]
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20190449.png)
 
 # 4. Enable filtering by date, interviewer, or candidate.
 
-![Job Board]
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20190518.png)
 
 
 
