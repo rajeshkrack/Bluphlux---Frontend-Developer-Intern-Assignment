@@ -3,7 +3,7 @@
 
 Objective: Develop a functional React application that allows HR/Recruiters to schedule, manage, and view interviews efficiently.
 
-# Implementation 
+# Project Flow
 
 # 1. HOME Page
 
@@ -47,15 +47,31 @@ Validation
 
 # 5. Rescheduling/Editing Interviews:
 
-![Job Board]
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20191040.png)
 
 
 Changes happended
 
 
-![Job Board]
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20191201.png)
 
 
+# Teck stack used : 
+
+        1. React with functional components and hooks.
+
+        2. Context API and Redux for Manage state.
+
+        3. React Router for navigation between pages
+
+        4. Custom CSS for Styling.
+
+        5. localStorage to Persist data.
+
+
+# Steps to Run Project 
+
+git clone 
 
 
 
