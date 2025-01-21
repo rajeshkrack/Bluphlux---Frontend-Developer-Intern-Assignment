@@ -14,6 +14,12 @@ Objective: Develop a functional React application that allows HR/Recruiters to s
 
 ![Job Board]
 
+adding data
+![Job Board]
+
+sucessful scheduling
+![Job Board]
+
 
 
 
