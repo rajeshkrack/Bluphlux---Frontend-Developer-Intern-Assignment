@@ -81,7 +81,7 @@ npm run dev to start the project ---------------->>> Yeah <<<-------------------
 
 #  Hey !!  Hey !!  Why you are worring 
 
-Go and directly enjoy my deployed Interview schedular 
+Go and directly enjoy my deployed Interview schedular https://bluphlux-frontend-developer-intern-assignment.vercel.app/
 
 
 
