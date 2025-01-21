@@ -21,10 +21,9 @@ h1, h2 {
 
 /* Navbar Styles */
 nav {
-  background-color: #070707; /* Blue background */
+  background-color: #171515; /* Blue background */
   color: white;
   padding: 10px 20px;
-  height: 50px;
 }
 
 nav .container {
@@ -86,7 +85,7 @@ nav .text-lg {
 }
 
 .start-button {
-  background-color: #1d4ed8;
+  background-color: #0d1018;
   color: white;
   padding: 10px 20px;
   border: none;
