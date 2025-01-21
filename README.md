@@ -15,13 +15,17 @@ Objective: Develop a functional React application that allows HR/Recruiters to s
 ![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20184926.png)
 
 adding data
+
 ![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20185027.png)
 
 sucessful scheduling
+
+![Job Board](https://github.com/rajeshkrack/Bluphlux---Frontend-Developer-Intern-Assignment/blob/main/public/Screenshot%202025-01-21%20185051.png)
+
+
+Validation 
+
 ![Job Board]
-
-
-
 
 
 
