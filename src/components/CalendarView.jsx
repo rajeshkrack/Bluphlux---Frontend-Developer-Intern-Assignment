@@ -9,6 +9,7 @@ const locales = {
   "en-US": enUS,
 };
 
+// to help calender in displaying dates 
 const localizer = dateFnsLocalizer({
   format,
   parse,

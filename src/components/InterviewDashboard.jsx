@@ -92,7 +92,7 @@ const InterviewDashboard = () => {
               <li key={interview.id} className="flex justify-between items-center p-2 border-b">
                 <div className="flex-1">
                   <span>
-                    {interview.candidate} - {interview.interviewer} ({interview.date} at {interview.time})
+                    {interview.candidate} - {interview.interviewer} ({interview.date} at {interview.time}) type - {interview.type}
                   </span>
                 </div>
                 <div className="flex space-x-4">

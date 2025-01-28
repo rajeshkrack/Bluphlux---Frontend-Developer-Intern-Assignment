@@ -8,7 +8,7 @@ import InterviewDashboard from "./components/InterviewDashboard";
 import { InterviewProvider } from "./context/InterviewContext";
 import CalendarView from "./components/CalendarView";
 import "./App.css";
-import './index.css';  // Ensure this line is present in your main entry file
+import './index.css';  
 
 const App = () => {
   return (

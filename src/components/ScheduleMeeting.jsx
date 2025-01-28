@@ -28,6 +28,21 @@ const ScheduleMeeting = ({ editInterview, onClose }) => {
       setError("Please fill out all fields.");
       return false;
     }
+
+    // Validate against existing interviews in localStorage
+    const savedInterviews = JSON.parse(localStorage.getItem("interviews")) || [];
+    const isConflict = savedInterviews.some(
+      (interview) =>
+        interview.date === form.date &&
+        interview.time === form.time &&
+        (interview.candidate === form.candidate || interview.interviewer === form.interviewer)
+    );
+
+    if (isConflict) {
+      setError("Opps !! : The same candidate or interviewer already has an interview at this time.");
+      return false;
+    }
+
     setError(""); // Clear error if form is valid
     return true;
   };
@@ -75,7 +90,7 @@ const ScheduleMeeting = ({ editInterview, onClose }) => {
           onChange={(e) => setForm({ ...form, candidate: e.target.value })}
           className="border rounded p-2 w-full focus:border-blue-500 focus:ring-2 focus:ring-blue-300"
         />
-        
+
         {/* Interviewer Name */}
         <input
           type="text"
@@ -84,7 +99,7 @@ const ScheduleMeeting = ({ editInterview, onClose }) => {
           onChange={(e) => setForm({ ...form, interviewer: e.target.value })}
           className="border rounded p-2 w-full focus:border-blue-500 focus:ring-2 focus:ring-blue-300"
         />
-        
+
         {/* Interview Date */}
         <input
           type="date"
@@ -92,7 +107,7 @@ const ScheduleMeeting = ({ editInterview, onClose }) => {
           onChange={(e) => setForm({ ...form, date: e.target.value })}
           className="border rounded p-2 w-full focus:border-blue-500 focus:ring-2 focus:ring-blue-300"
         />
-        
+
         {/* Interview Time */}
         <input
           type="time"
@@ -100,7 +115,7 @@ const ScheduleMeeting = ({ editInterview, onClose }) => {
           onChange={(e) => setForm({ ...form, time: e.target.value })}
           className="border rounded p-2 w-full focus:border-blue-500 focus:ring-2 focus:ring-blue-300"
         />
-        
+
         {/* Interview Type */}
         <select
           value={form.type}
@@ -125,7 +140,7 @@ const ScheduleMeeting = ({ editInterview, onClose }) => {
           </button>
           <button
             type="button"
-            onClick={handleClose} // Use the default or passed in close function
+            onClick={handleClose} // Use the default or passed-in close function
             className="bg-gray-500 text-white p-2 rounded hover:bg-gray-700 transform transition duration-200"
           >
             Cancel
